@@ -1,0 +1,11 @@
+site:
+  title: SBOMer Project
+  url: https://sbomer-project.github.io/sbomer-engineering-hub/
+content:
+  sources:
+    - url: https://github.com/sbomer-project/sbomer-ui.git
+      branches: main
+      start_path: docs
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
