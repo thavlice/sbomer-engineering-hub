@@ -1,8 +1,12 @@
 site:
   title: SBOMer Project
   url: https://sbomer-project.github.io/sbomer-engineering-hub/
+  start_page: sbomer-project-documenation::index.adoc
 content:
   sources:
+    - url: .
+      branches: main
+      start_path: docs
     - url: https://github.com/sbomer-project/sbomer-ui.git
       branches: main
       start_path: docs

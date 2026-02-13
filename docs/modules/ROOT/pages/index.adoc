@@ -1,0 +1,6 @@
+= SBOMer Project Documentation
+:page-title: SBOMer Project Documentation
+:page-description: Documentation for the SBOMer Project, including engineering resources and guides.
+
+Welcome to the SBOMer Project Documentation hub.
+

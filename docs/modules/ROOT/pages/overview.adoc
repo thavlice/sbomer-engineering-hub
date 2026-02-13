@@ -1,0 +1,4 @@
+# Overview
+
+SBOMer system is multi-component services-based system used to generate SBOMs in various formats from various sources. The system is designed to be extensible and modular, allowing for easy integration of new components and features.
+
