@@ -1,7 +1,7 @@
 site:
   title: SBOMer Project
   url: https://sbomer-project.github.io/sbomer-engineering-hub/
-  start_page: sbomer-project-documenation::index.adoc
+  start_page: sbomer-project-documentation::index.adoc
 content:
   sources:
     - url: .
