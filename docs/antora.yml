@@ -1,0 +1,5 @@
+name: sbomer-project-documenation
+title: SBOMer Project Documentation
+version: '1.0'
+nav:
+  - modules/ROOT/nav.adoc
